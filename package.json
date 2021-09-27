@@ -1,0 +1,16 @@
+{
+  "name": "projekt_greenhack",
+  "version": "1.0.0",
+  "description": "Measuring CO2 in schools",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.6",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
